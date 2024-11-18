@@ -1,10 +1,10 @@
 package BasicsofJava;
 
-public class IfelseIfLadder {
+public class ifelseifladder {
 
 	public static void main(String[] args) {
 		int Score =89;
-		if(score>90)
+		if(Score>90)
 		{
 			System.out.println("grade a");
 		}
@@ -12,11 +12,11 @@ public class IfelseIfLadder {
 		{
 			System.out.println("grade b");
 		}
-		else if(score>=70)
+		else if(Score>=70)
 		{
 			System.out.println("gradec");
 		}
-		else if(score>=60)
+		else if(Score>=60)
 		{
 			System.out.println("grade d");
 		}
