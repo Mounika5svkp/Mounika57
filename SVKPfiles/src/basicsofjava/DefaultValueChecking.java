@@ -1,4 +1,4 @@
-package BasicsofJava;
+package basicsofjava;
 
  class Demo 
 {

@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.c2tc.ScannerClass_BufferReader;
+package org.tnsif.capgemini.c2tc.ScannerClass_bufferreader;
 import java.util.Scanner;
 public class ScannerAllMethod {
 	//import the scanner class

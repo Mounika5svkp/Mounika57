@@ -1,4 +1,4 @@
-package BasicsofJava;
+package basicsofjava;
 
 public class HelloWorld {
 	
