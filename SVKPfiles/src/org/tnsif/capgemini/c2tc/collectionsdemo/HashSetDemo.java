@@ -1,5 +1,17 @@
 package org.tnsif.capgemini.c2tc.collectionsdemo;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class HashSetDemo {
+
+	public static void main(String[] args) {
+		Set<String> set=new HashSet<>();
+		set.add("orange");
+		set.add("banana");
+		set.add("cherry");
+		set.add("orange");
+		System.out.println("Hashset :"+ set);
+	}
 
 }
